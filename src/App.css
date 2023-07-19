@@ -9,7 +9,7 @@
   overflow: hidden;
 }
 
-body {border: 1px solid pink;
+body {/* border: 1px solid pink; */
   background-color: var(--body-bg-color);
   font-family: var(--main-font);
   color: var(--text-color);

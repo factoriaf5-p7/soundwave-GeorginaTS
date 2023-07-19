@@ -64,15 +64,17 @@
 
 
 @media (max-width: 640px) {
-    #feel-section .text-div{border: 1px solid green;
-    width: 50%;
+    #feel-section .text-div{
+        /* border: 1px solid green; */
+        width: 50%;
     }
     #feel-section .img-div {
         display:block;
     }
 }
 @media (max-width: 640px) {
-    #feel-section .text-div{border: 1px solid green;
+    #feel-section .text-div{
+        /* border: 1px solid green; */
         width: 100%;
         }
     #feel-section .img-div {

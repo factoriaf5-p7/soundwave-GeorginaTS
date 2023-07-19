@@ -1,11 +1,13 @@
 
-#root {border: 1px solid #21c9cc;
+#root {
+    /* border: 1px solid #21c9cc; */
     display: grid;
     grid-template-rows: 95px 1fr 50px; 
     width: 100vw;
     height: 100vh;
   } 
-  #discover-section main{ border: 1px solid red;
+  #discover-section main{ 
+    /* border: 1px solid red; */
     display: flex;
     justify-content: center;
     align-items: center;
